@@ -15,7 +15,7 @@ Nema ogranicenja kod slanja podataka i podaci idu kroz HTTP header.*/
 
 explode() //razloži string od stringa koji su odvojeni npr'/',':'
 
-trim()
+trim() //izbacivanje praznog prostora iz cijelog stringa
 
 json_decode() //uzima PHP vrijednost i pretvara ga u JSON kodirani string
 
